@@ -4,9 +4,9 @@ I love creating digital experiences with code, pictures, and words.
 
 ##Skills and Experience
 
-* :computer:
+* :computer: WORDPRESS/ JS / HTML / CSS
 
-WORDPRESS/ JS / HTML / CSS
+
 
 - 🔭 I’m currently working on building my portfolio 
 - 🌱 I’m currently learning JavaScript! isn't everyone 
