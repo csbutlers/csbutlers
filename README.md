@@ -14,7 +14,7 @@ I love creating digital experiences with code, pictures, and words.
 
 
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+### [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 
 https://www.google.com "Google's Homepage"
