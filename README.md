@@ -12,6 +12,8 @@ I love creating digital experiences with code, pictures, and words.
 
 ## Examples of Work
 
+https://www.google.com "Google's Homepage"
+
 ### [I Paint Spots] (https://ipaintspots.com)
 <img src="https://www.ipaintspots.com/wp-content/themes/ipaintspots/assets/img/goat-large.jpg" width="300" alt="image of I paint spots website">
 
