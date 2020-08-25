@@ -12,11 +12,13 @@ I love creating digital experiences with code, pictures, and words.
 
 ## Examples of Work
 
-### I Paint Spots
-
-[I'm an inline-style link](https://www.google.com)
-
+### [I Paint Spots] (https://ipaintspots.com)
 <img src="https://www.ipaintspots.com/wp-content/themes/ipaintspots/assets/img/goat-large.jpg" width="300" alt="image of I paint spots website">
+
+
+### [The Women's Challenge] (https://challenge.chrisbutler.us)
+
+<img src="https://www.chrisbutlerdigital.com/img/womenschallenge.jpg" width="300" alt="image of the Women's Challenge website">
 
 
 
