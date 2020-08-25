@@ -1,8 +1,8 @@
-### Howdy, I'm Chris Butler
-#### I design and build websites for business and organizations big and small.
+# I'm Chris Butler
+#### I design and build websites for businesses and organizations big and small.
 I love creating digital experiences with code, pictures, and words.
 
-##Skills and Experience
+## Skills and Experience
 
 * :computer: WORDPRESS/ JS / HTML / CSS
 
