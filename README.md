@@ -13,7 +13,7 @@ I love creating digital experiences with code, pictures, and words.
 ## Examples of Work
 
 ### :rocket: [Power Calculator](https://chrisbutlerdigital.com/projects/power-calculator)
-<img scr="https://www.chrisbutlerdigital.com/img/ftp-calc.jpg" alt="image of the women's challenge bike race" width="300">
+<img scr="https://www.chrisbutlerdigital.com/img/ftp-calc-graph.jpg" alt="image of the women's challenge bike race" width="300">
 
 ### :dog: [I Paint Spots](https://www.ipaintspots.com)
 <img src="https://www.ipaintspots.com/wp-content/themes/ipaintspots/assets/img/goat-large.jpg" width="300" alt="image of I paint spots website">
