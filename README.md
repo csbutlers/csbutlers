@@ -13,7 +13,7 @@ I love creating digital experiences with code, pictures, and words.
 ## Examples of Work
 
 ### I Paint Spots
-<img src="https://ipaintspots.com/content/themes/ipaintspots/assets/img/goat-large.jpg" width="300" alt="image of I paint spots website">
+<img src="https://www.ipaintspots.com/wp-content/themes/ipaintspots/assets/img/goat-large.jpg" width="300" alt="image of I paint spots website">
 
 
 
