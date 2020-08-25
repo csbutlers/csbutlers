@@ -1,4 +1,4 @@
-### Hi there 👋, Howdy, I'm Chris Butler
+### Howdy, I'm Chris Butler
 #### I design and build websites for business and organizations big and small.
 I love creating digital experiences with code, pictures, and words.
 
