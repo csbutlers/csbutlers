@@ -2,7 +2,11 @@
 #### I design and build websites for business and organizations big and small.
 I love creating digital experiences with code, pictures, and words.
 
-Skills: WORDPRESS/ JS / HTML / CSS
+##Skills and Experience
+
+* :computer:
+
+WORDPRESS/ JS / HTML / CSS
 
 - 🔭 I’m currently working on building my portfolio 
 - 🌱 I’m currently learning JavaScript! isn't everyone 
