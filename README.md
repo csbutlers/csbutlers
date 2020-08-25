@@ -14,18 +14,11 @@ I love creating digital experiences with code, pictures, and words.
 
 
 
-### [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-
-https://www.google.com "Google's Homepage"
-
-### I Paint Spots
-[I Paint Spots] (https://ipaintspots.com)
+### [I Paint Spots](https://www.ipaintspots.com)
 <img src="https://www.ipaintspots.com/wp-content/themes/ipaintspots/assets/img/goat-large.jpg" width="300" alt="image of I paint spots website">
 
 
-### [The Women's Challenge] (https://challenge.chrisbutler.us)
-
+### [The Women's Challenge](https://challenge.chrisbutler.us)
 <img src="https://www.chrisbutlerdigital.com/img/womenschallenge.jpg" width="300" alt="image of the Women's Challenge website">
 
 
