@@ -14,7 +14,7 @@ I love creating digital experiences with code, pictures, and words.
 
 
 
-### [I Paint Spots](https://www.ipaintspots.com)
+### :dog: [I Paint Spots](https://www.ipaintspots.com)
 <img src="https://www.ipaintspots.com/wp-content/themes/ipaintspots/assets/img/goat-large.jpg" width="300" alt="image of I paint spots website">
 
 
