@@ -1,14 +1,13 @@
-# I'm Chris Butler - I build products with Code, Pictures, and Words
+# I'm Chris Butler - I build products with code, pictures and words
 #### I design and build websites for businesses and organizations big and small.
 I love creating digital experiences with code, pictures, and words.
 
-- 🔭 I’m currently working on building my portfolio 
-- 🌱 I’m currently learning JavaScript! isn't everyone 
+- I’m currently working on rebuilding my portfolio and brushing up on JavaScript! isn't everyone 
 
 
 ## Skills and Experience
 
-:computer: WORDPRESS / JS / HTML5 / CSS (SASS)
+WORDPRESS / JS / HTML5 / CSS (SASS)
 
 ## Examples of Work
 
